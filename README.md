@@ -1,5 +1,45 @@
-# 💫 About Me:
-🎓 B.Tech CSE student<br>🧠 Strong in Python, AI/ML, and Computer Vision<br>🛠 Built real-time projects: face detection, lane detection, object tracking, speed estimation<br>🔐 Worked on DevSecOps pipelines using Docker, GitHub Actions, SonarQube, and Trivy<br>⚙️ Comfortable with Linux, Git, CI/CD concepts, and system-level debugging<br>🚀 Prefer building end-to-end projects over just learning tools<br>🎯 Actively working toward a DevOps / DevSecOps engineering role
+# Rohith Kumar Reddy
+
+**Computer Science Undergraduate | Python & DevOps Engineer | AI/ML Practitioner**
+
+I build practical, end-to-end systems across **AI/ML, computer vision, and DevSecOps**, with a focus on real-world execution, system reliability, and security-aware development.
+
+---
+
+## Engineering
+- Built real-time computer vision systems including face detection, lane detection, and object tracking  
+- Worked on performance-aware pipelines suitable for real-world inference use cases  
+- Emphasis on correctness, modular design, and maintainable code
+
+---
+
+## DevOps & DevSecOps
+- Designed CI/CD pipelines using Docker and GitHub Actions  
+- Integrated static code analysis and container security using SonarQube and Trivy  
+- Focused on automation, security scanning, and repeatable build workflows
+
+---
+
+## Projects
+- Steganography-based secure messaging system using Python (LSB encoding + encryption)  
+- AI-driven detection and tracking systems  
+- Full-stack and automation-focused academic and personal projects  
+- Built with deployment and usability in mind, not just demos
+
+---
+
+## Open Source & Learning
+- Continuously improving system-level understanding through hands-on projects  
+- Strong focus on Linux, Git, CI/CD internals, and cloud-native fundamentals  
+- Learn by building, breaking, and fixing systems
+
+---
+
+## Current Focus
+- DevOps and DevSecOps engineering  
+- Secure and scalable CI/CD systems  
+- AI systems with practical deployment constraints
+
 
 
 ## 🌐 Socials:
